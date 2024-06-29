@@ -1,3 +1,7 @@
+# Forked to convert syntax to Godot 4.
+
+
+
 # Sprite Sheet Importer
 
 This is a plugin for [Godot Engine](https://godotengine.org) to import
